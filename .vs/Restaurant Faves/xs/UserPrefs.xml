@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{77C10C9A-4CA0-416E-948D-8D0332EE472C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Restaurant_220Faves PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant Faves/Program.cs">
+    <Files>
+      <File FileName="Restaurant Faves/Controllers/RestaurantController.cs" />
+      <File FileName="Restaurant Faves/ClientApp/tsconfig.json" />
+      <File FileName="Restaurant Faves/ClientApp/proxy.conf.js" />
+      <File FileName="Restaurant Faves/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Restaurant Faves" expanded="True">
+            <Node name="Restaurant Faves" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
